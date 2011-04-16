@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Cocoa Framework with MacRuby Unit Tests' target in the 'Cocoa Framework with MacRuby Unit Tests' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
