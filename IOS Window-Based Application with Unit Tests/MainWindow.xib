@@ -135,7 +135,7 @@
 					</object>
 					<string>{{198, 376}, {320, 480}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
-					<string>__PROJECTNAMEASIDENTIFIER__AppDelegate</string>
+					<string>___PROJECTNAMEASIDENTIFIER___AppDelegate</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 				</object>
 			</object>
@@ -161,7 +161,7 @@
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
 				<bool key="EncodedWithXMLCoder">YES</bool>
 				<object class="IBPartialClassDescription">
-					<string key="className">__PROJECTNAMEASIDENTIFIER__AppDelegate</string>
+					<string key="className">___PROJECTNAMEASIDENTIFIER___AppDelegate</string>
 					<string key="superclassName">NSObject</string>
 					<object class="NSMutableDictionary" key="outlets">
 						<string key="NS.key.0">window</string>
